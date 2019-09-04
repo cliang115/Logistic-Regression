@@ -1,4 +1,3 @@
-# Machine-Learning ex2
+# Logistic regression
 
-In this exercise, you will implement logistic regression and apply it to two
-different datasets.
+logistic regression was implemented and applied to two different datasets.
